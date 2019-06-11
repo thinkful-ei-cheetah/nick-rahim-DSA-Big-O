@@ -4,3 +4,8 @@
 3. O(n^2) - b/c nested for loop
 4. O(n) - b/c 1 operation per element
 5. O(n) - b/c 1 operation per array element
+6. O(n^2) - b/c nested loop.
+7. O(n) - b/c one loop.  Fibonocci
+8. O(log(n) - divide and conquer search.
+9. O(1) - Finding one element in array.
+10. O(n)- Looking for prime number.
