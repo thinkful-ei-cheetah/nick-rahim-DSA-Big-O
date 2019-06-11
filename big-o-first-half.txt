@@ -1,0 +1,6 @@
+1. O(1) - b/c you perform one operation (call out)
+   O(n) - b/c you performa one operation for each person in the room
+2. O(1) - b/c there is one 'thing' to operate on
+3. O(n^2) - b/c nested for loop
+4. O(n) - b/c 1 operation per element
+5. O(n) - b/c 1 operation per array element
